@@ -65,7 +65,7 @@ OBJEXT = o
 PATH_SEPARATOR = :
 AMTAR = tar
 AWK = awk
-CC = /Users/Peter/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-linux-android21
+CC = /Users/Peter/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-linux-android30
 DEPDIR = .deps
 EMACS = emacs
 INCLUDES =  -I$(top_srcdir) -I$(top_srcdir)/savutil -I$(top_srcdir)/savutil/parsedate -I$(top_srcdir)/template -I$(top_srcdir)/plugins -I\/usr/include/pcre -I\/sw/include
